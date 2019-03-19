@@ -1,4 +1,4 @@
-# ggplot2 <img src="man/figures/logo.png" align="right" width="120" />
+# NYCFlights R for data science  <img src="man/figures/logo.png" align="right" width="120" />
 
 [![Travis Build
 Status](https://travis-ci.org/tidyverse/ggplot2.svg?branch=master)](https://travis-ci.org/tidyverse/ggplot2)
