@@ -16,11 +16,8 @@ Dans ce projet, j'ai travaillé sur le trafic aérien....
 ### Création de la BD SQL
 Certains pb rencontrés sur les CSV : doublons, NA, données incohérentes... qui font en sorte que ni la PK ni la FK fonctionnent.
 
-### Création de la BD SQL
+#### Création de flights_schema et flights_data SQL
 
-
-
-``` r
 # The easiest way to get ggplot2 is to install the whole tidyverse:
 install.packages("tidyverse")
 
