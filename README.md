@@ -1,5 +1,4 @@
-# NYCFlights R for data science  <img src="man/figures/logo.png" align="right" width="120" />
-
+# NYCFlights R for data science
 [![Travis Build
 Status](https://travis-ci.org/tidyverse/ggplot2.svg?branch=master)](https://travis-ci.org/tidyverse/ggplot2)
 [![AppVeyor Build
@@ -10,12 +9,16 @@ Status](https://img.shields.io/codecov/c/github/tidyverse/ggplot2/master.svg)](h
 
 ## Overview
 
-ggplot2 is a system for declaratively creating graphics, based on [The
-Grammar of Graphics](http://amzn.to/2ef1eWp). You provide the data, tell
-ggplot2 how to map variables to aesthetics, what graphical primitives to
-use, and it takes care of the details.
+Dans ce projet, j'ai travaillé sur le trafic aérien....
 
-## Installation
+## Plan du projet
+
+### Création de la BD SQL
+Certains pb rencontrés sur les CSV : doublons, NA, données incohérentes... qui font en sorte que ni la PK ni la FK fonctionnent.
+
+### Création de la BD SQL
+
+
 
 ``` r
 # The easiest way to get ggplot2 is to install the whole tidyverse:
